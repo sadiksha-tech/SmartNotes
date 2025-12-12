@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "id": "3b3f373c-5b5c-41a1-8f67-c147d6766b4c",
+      "title": "Learn",
+      "content": "Finish Node.js tutorial and build mini-app",
+      "important": false,
+      "completed": false,
+      "createdAt": "2025-12-05T19:38:28.177Z"
+    },
+    {
+      "id": "fa353f95-375d-47e8-b19e-cb1d7fd2797c",
+      "title": "Read Articles",
+      "content": "AI trends, modern web development, SQL tips",
+      "important": false,
+      "completed": false,
+      "createdAt": "2025-12-05T19:40:18.435Z"
+    },
+    {
+      "id": "b286014d-1004-443b-ba7a-7e7ed5af667d",
+      "title": "Project Deadline",
+      "content": "Complete the report by Sunday 2 PM",
+      "important": false,
+      "completed": false,
+      "createdAt": "2025-12-05T19:41:18.167Z"
+    },
+    {
+      "id": "a9fabee5-5872-4ebe-9344-1acb2ddcdb95",
+      "title": "Learn Git & GitHub",
+      "content": "Push projects and practice version control commands",
+      "important": false,
+      "completed": false,
+      "createdAt": "2025-12-06T05:13:26.449Z"
+    },
+    {
+      "id": "ce798bda-0ade-434f-b3ad-ad9a633e76dd",
+      "title": "Plan Interview Prep",
+      "content": "Review SQL, JavaScript, and OOP concepts",
+      "important": false,
+      "completed": false,
+      "createdAt": "2025-12-06T05:14:27.417Z"
+    },
+    {
+      "id": "25c9dcad-45ef-42cd-81b6-b0fc59b94773",
+      "title": "phone number",
+      "content": "9811919191",
+      "important": false,
+      "completed": false,
+      "createdAt": "2025-12-06T11:07:09.806Z"
+    }
+  ]
+}
